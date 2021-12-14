@@ -3,3 +3,5 @@ Used the Scout Rule to Refractor the code provided for the company Horiseon. Wor
 
  # Submission
 Deployed URL:  https://tatomtech.github.io/code-refractor-horiseon/
+![image](https://user-images.githubusercontent.com/94080507/146048357-f2c1d0ff-d209-4388-b07d-968be04e73f7.png)
+![image](https://user-images.githubusercontent.com/94080507/146048588-fa427adc-597f-42f4-9a64-24d8bef13265.png)
